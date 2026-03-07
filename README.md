@@ -3,10 +3,8 @@
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ismail%20Abdul%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Agentic%20Explorer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
 
-<!-- ANIMATED TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🤖+Building+AI+Agents+%26+Automation;🌐+Next.js+%2B+AI+%3D+The+Future;🧠+Agentic+AI+%7C+MCP+%7C+Claude+Code;🚀+On+a+Mission+to+Be+World-Class;⚡+Full+Stack+%2B+AI+Developer+from+🇵🇰" alt="Typing SVG" />
-</a>
+<!-- ANIMATED TYPING SVG — emojis removed from URL lines (they break SVG rendering) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%26+Automation+%F0%9F%A4%96;Next.js+%2B+AI+%3D+The+Future+%F0%9F%8C%90;Agentic+AI+%7C+MCP+%7C+Claude+Code+%F0%9F%A7%A0;On+a+Mission+to+Be+World-Class+%F0%9F%9A%80;Full+Stack+%2B+AI+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 
 <br/>
 
@@ -150,7 +148,7 @@ const ismail = {
   </picture>
 </div>
 
-> ⚙️ **To activate the snake:** Go to your repo → Actions → Enable the `Generate Snake` workflow (see setup below)
+
 
 ---
 
@@ -180,7 +178,7 @@ const ismail = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-abdul-kareem-233b302b3)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismail233290@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsmailAbdulkareem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buildwithismail.xyz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buildwithismail.xyz)
 
 </div>
 
