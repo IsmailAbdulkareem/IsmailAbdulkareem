@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ismail%20Abdul%20Kareem&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20Agentic%20Explorer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
@@ -102,7 +102,7 @@ const ismail = {
 |:---:|:---|:---:|:---:|
 | 🤖 **Personal AI Employee** | Hackathon-built AI assistant that handles automated tasks with intelligent decision-making | Python · OpenAI SDK · Agents | [Repo](https://github.com/IsmailAbdulkareem/Personal_AI_Employee_Silver_Tier) |
 | 📚 **AI Native Book** | Interactive AI learning book explaining modern AI concepts, workflows & agentic patterns | JS · GitHub Pages | [Live](https://ismailabdulkareem.github.io/AI_Book/) |
-| ✅ **AI Todo App** | Smart Todo app supercharged with AI prioritization and natural language input | Next.js · OpenAI | Coming Soon |
+| ✅ **AI Todo App** | Smart Todo app supercharged with AI prioritization and natural language input | Next.js · OpenAI | [Live](https://todohackathonphase3.vercel.app/) |
 | 🌐 **AI Chatbot Websites** | Production-ready AI chatbot solutions for real estate, restaurants & law firms | Next.js · Claude API · Vercel | In Progress |
 
 </div>
@@ -180,7 +180,7 @@ const ismail = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismail-abdul-kareem-233b302b3)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismail233290@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsmailAbdulkareem)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ismailabdulkareem.github.io/AI_Book/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://buildwithismail.xyz/)
 
 </div>
 
