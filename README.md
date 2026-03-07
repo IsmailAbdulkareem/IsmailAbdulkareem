@@ -140,13 +140,12 @@ const ismail = {
 <!-- SNAKE ANIMATION -->
 ## 🐍 My Contribution Snake
 
-<div align="center">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsmailAbdulkareem/IsmailAbdulkareem/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsmailAbdulkareem/IsmailAbdulkareem/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/IsmailAbdulkareem/IsmailAbdulkareem/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://IsmailAbdulkareem.github.io/github-snake-dark.svg">
+    <img src="https://IsmailAbdulkareem.github.io/github-snake.svg" alt="GitHub Snake Animation" width="600" height="180">
   </picture>
-</div>
+</p>
 
 
 
